@@ -2,7 +2,7 @@
  * @name STools
  * @author Nyll
  * @authorId 239559651203481600
- * @version 1.0.1
+ * @version 1.1.1
  * @description Кара божья.
  * @author Denis Solo (Windsor).
  * @website https://nyll.dev/
@@ -14,12 +14,12 @@ module.exports = (_ => {
         "info": {
             "name": "STools",
             "author": "Nyll",
-            "version": "1.0.1",
+            "version": "1.1.1",
             "description": "Discord Admin Tools"
         },
         "changeLog": {
             "improved": {
-                "Quick Action": "Init"
+                "Quick Action": "Init Test"
             }
         }
     };
