@@ -2,7 +2,7 @@
  * @name STools
  * @author Nyll
  * @authorId 239559651203481600
- * @version 1.0.0
+ * @version 1.0.1
  * @description Кара божья.
  * @author Denis Solo (Windsor).
  * @website https://nyll.dev/
