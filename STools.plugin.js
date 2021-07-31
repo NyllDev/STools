@@ -6,7 +6,7 @@
  * @description Кара божья.
  * @author Denis Solo (Windsor).
  * @website https://nyll.dev/
- *
+ * @updateUrl https://nylldev.github.io/STools/STools.plugin.js
 */
 
 module.exports = (_ => {
@@ -50,6 +50,7 @@ module.exports = (_ => {
             {time: 120,	 label: "Публиковать материалов(18+)", 						reason: "Публиковать фотографии нецензурного характера(18+)", 							rule: "Запрещено публиковать фотографии нецензурного характера(18+). | Mute: 40-60m"},
             {time: 30,	 label: "Нарушение правил !bio ",						 	reason: "Нарушение правил !bio", 														rule: "Запрещено выкладывать в !bio неуважительную к участнику информацию, тем самым его оскорбляя/унижая/критикуя. | Mute: 30-120m"},
             {time: 40,	 label: "Оффтопить в каналах с выдачей ролей ",  			reason: "Оффтоп", 																		rule: "Запрещено оффтопить в каналах с выдачей ролей / запросом ролей / репортом и предложениями / открытия кейсов. | Mute: 40-120m"},
+            // {time: 1,	 label: "Test ",  			reason: "Test", 																		rule: "Test"},
         ]
 
         return class STools extends Plugin {
