@@ -15,13 +15,9 @@ module.exports = (_ => {
             "name": "STools",
             "author": "Nyll",
             "version": "1.1.1",
-            "description": "Discord Admin Tools"
+            "description": "Discord Admin Tools",
+			"updateUrl": "https://nylldev.github.io/STools/STools.plugin.js"
         },
-        "changeLog": {
-            "improved": {
-                "Quick Action": "Init Test"
-            }
-        }
     };
 
     return (window.Lightcord || window.LightCord) ? class {
