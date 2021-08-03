@@ -2,7 +2,7 @@
  * @name STools
  * @author Nyll
  * @authorId 2395596512034816001
- * @version 1.0.0
+ * @version 1.0.1
  * @description Discord Utils.
  * @author Nyll.
  * @website https://nyll.dev/
@@ -14,7 +14,7 @@ module.exports = (_ => {
         "info": {
             "name": "STools",
             "author": "Nyll",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "description": "Discord Utils.",
             "rawUrl": "https://nylldev.github.io/STools/STools.plugin.js"
         }
